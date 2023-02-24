@@ -51,3 +51,8 @@ java -Dspring.profiles.active=production -jar ./target/ars-0.0.1-SNAPSHOT.jar
 * [Bootstrap docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)  
 * [Htmx in a nutshell](https://htmx.org/docs/)  
 # ars
+
+
+##
+* Swagger - http://localhost:8081/swagger-ui/index.html#/user-resource/createUser
+* H2 DB console - http://localhost:8081/h2-console
